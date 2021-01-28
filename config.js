@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://shubham-sns.netlify.app/',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Shubham',
+  subtitle: 'Software Engineer based in Ahmedabad, IN specializing in building web applications with React.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'G-XGDEGJ939V',
   useKatex: false,
   menu: [
     {
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Shubham Sananse',
+    photo: '/photo.png',
+    bio: 'Software Engineer based in Ahmedabad, IN specializing in building web applications with React.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'shubhamsananse9@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'shubhan_sns',
+      github: 'shubham-sns',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'shubham-sns',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
